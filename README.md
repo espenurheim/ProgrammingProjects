@@ -1,2 +1,1 @@
-The four courses in this repository are part of the Applied Physics and Mathematics study at NTNU. 
-Each course includes one or more programming projects, where the code is used to write a report, stored as either a pdf or a jupyter notebook.
+This repository contains projects associated with five courses of the Applied Physics and Mathematics programme at NTNU. For the largest project, TMA4500 Specialization Project, the data I used is confidential, and therefore the code is not included - only the final report. For the other four courses, each project is composed of code and a report, which is stored as either a PDF or a jupyter notebook.
